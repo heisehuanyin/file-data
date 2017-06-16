@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><root id="rootNode"><li>
+        <a href="http://www.jd.com" target="_blank" collectnum="0" style="animation-delay: 6s;">
+            <img src="http://img.9553.com/uploadfile/2016/1027/20161027053122646.jpg"/>
+        </a>
+        <p>购物</p>
+        <ul>
+            <li>
+                <div>
+                    <a href="http://www.jd.com" target="_blank">
+                        <img src="http://img.9553.com/uploadfile/2016/1027/20161027053122646.jpg"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="http://www.tmall.com" target="_blank">
+                        <img src="http://image.tupian114.com/20120923/18285581.jpg"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.taobao.com/" target="_blank">
+                        <img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1497099980526&amp;di=df7b3021381318b7cea83da6603e4fc2&amp;imgtype=0&amp;src=http%3A%2F%2Fpic.qiantucdn.com%2F58pic%2F17%2F92%2F71%2F31s58PICy5P_1024.jpg"/>
+                    </a>
+                </div>
+            </li>
+        </ul>
+    </li></root>
